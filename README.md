@@ -9,5 +9,9 @@ Libraries:
 
 
 ### Setup
- How to run: python series.py
+ How to run: python madlib_cli/madlib.py
+
+ #### Tests
+    - To test you have to run pytest
+  
 
