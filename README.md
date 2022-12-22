@@ -1,11 +1,11 @@
 # Lab-Class 02
-## Project: Math_series
+## Project: MadLibs
 
 ### Author: Keyan Tabor
 
 #### Links and Resources
 Libraries:
-- Pywatch
+- Pytest
 
 
 ### Setup
